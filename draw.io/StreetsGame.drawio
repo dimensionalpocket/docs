@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T00:36:57.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36" etag="7Kapd5gZDdaj3diaIFN-" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T00:38:22.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Safari/537.36" etag="ZqoVGluy_Bs0LdMmi8_y" version="16.5.6" type="github">
   <diagram id="DgwlVZUd8uidN4rl617Z" name="Page-1">
     <mxGraphModel dx="1178" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="350" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxRectangle x="10" y="40" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHR1h492UewolUuHBB2A-3" value="Game Client&#xa;&#xa;Input capture / routing&#xa;Graphic msg routing&#xa;Worker connection" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=9;" vertex="1" parent="cHR1h492UewolUuHBB2A-1">
+        <mxCell id="cHR1h492UewolUuHBB2A-3" value="Game Client&#xa;&#xa;Input capture / routing&#xa;Graphic msg routing&#xa;Worker management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=9;" vertex="1" parent="cHR1h492UewolUuHBB2A-1">
           <mxGeometry x="20" y="190" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cHR1h492UewolUuHBB2A-4" value="3D Client&#xa;(graphics rendering)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=10;fontStyle=0" vertex="1" parent="cHR1h492UewolUuHBB2A-1">
@@ -63,7 +63,7 @@
         <mxCell id="cHR1h492UewolUuHBB2A-16" value="Keyboard&lt;br&gt;Game controller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="155" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cHR1h492UewolUuHBB2A-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.695;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cHR1h492UewolUuHBB2A-16" target="cHR1h492UewolUuHBB2A-3">
+        <mxCell id="cHR1h492UewolUuHBB2A-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.158;exitY=0.033;exitDx=0;exitDy=0;entryX=0.919;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="cHR1h492UewolUuHBB2A-16" target="cHR1h492UewolUuHBB2A-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="180" as="sourcePoint" />
             <mxPoint x="380" y="130" as="targetPoint" />
